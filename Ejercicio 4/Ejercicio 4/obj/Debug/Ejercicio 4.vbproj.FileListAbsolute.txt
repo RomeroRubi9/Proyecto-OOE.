@@ -1,0 +1,10 @@
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.xml
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio_4.Resources.resources
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.vbproj.GenerateResource.cache
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.vbproj.CoreCompileInputs.cache
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.xml
+C:\Users\Katherine\source\repos\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
